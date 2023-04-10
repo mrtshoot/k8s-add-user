@@ -8,3 +8,6 @@ chmod +x script.sh
 ./script.sh
 ```
 Then Answer the interactive questions.
+
+## Donate: 
+TNCtD7pARiD7iEffov2ARXAP6fGNVvtFaA
