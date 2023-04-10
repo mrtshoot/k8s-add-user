@@ -3,7 +3,8 @@ Script to add user in K8S cluster
 
 #### Note: this Script backup your default configuration file ~/.kube/config.so don't worry about that
 
-#### change role section in line38(apiGroup, Resources, Verbs) based on your need.
+1. change role section in line38(apiGroup, Resources, Verbs) based on your need.
+
 sample role
 ```
 apiVersion: rbac.authorization.k8s.io/v1
@@ -27,12 +28,11 @@ rules:
   - patch
 ```
 
-
+2. run your script to create resources. Then Answer the interactive questions.
 ```
 chmod +x script.sh
 ./script.sh
 ```
-Then Answer the interactive questions.
 
 ## Donate: 
 TNCtD7pARiD7iEffov2ARXAP6fGNVvtFaA
