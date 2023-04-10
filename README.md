@@ -39,5 +39,5 @@ chmod +x script.sh
 ./script.sh
 ```
 
-## Donate: 
+## Donation(USDT TRC20): 
 TNCtD7pARiD7iEffov2ARXAP6fGNVvtFaA
