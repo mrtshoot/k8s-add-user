@@ -39,5 +39,11 @@ chmod +x script.sh
 ./script.sh
 ```
 
-## Donation(TRC20): 
-TNCtD7pARiD7iEffov2ARXAP6fGNVvtFaA
+## Donation:
+```
+Tether: TNCtD7pARiD7iEffov2ARXAP6fGNVvtFaA
+```
+
+```
+Buy me a Book: https://www.buymeacoffee.com/mrtshoot
+```
