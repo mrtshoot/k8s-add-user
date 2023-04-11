@@ -39,7 +39,7 @@ chmod +x script.sh
 ./script.sh
 ```
 
-## Donation:
+## Donate
 ```
 Tether: TNCtD7pARiD7iEffov2ARXAP6fGNVvtFaA
 ```
