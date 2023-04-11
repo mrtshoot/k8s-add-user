@@ -45,5 +45,6 @@ Tether: TNCtD7pARiD7iEffov2ARXAP6fGNVvtFaA
 ```
 
 ```
-Buy me a Book: https://www.buymeacoffee.com/mrtshoot
+Buy me a Book: 
+https://www.buymeacoffee.com/mrtshoot
 ```
